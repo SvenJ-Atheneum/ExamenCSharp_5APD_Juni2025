@@ -18,9 +18,7 @@
             //Deze methode NIET AANPASSEN. Start in 'DoConvert(string inp)'
             for (int i = 0; i < tests.Length; i++)
             {
-                string a = DoConvert(tests[i]);
-                Console.WriteLine(a);
-                bool success = a == answers[i];
+                bool success = DoConvert(tests[i]) == answers[i];
                 if (success) { Console.ForegroundColor = ConsoleColor.Green; }
                 else { Console.ForegroundColor = ConsoleColor.Red; }
                 Console.WriteLine(success);

@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35919.96 d17.13
+VisualStudioVersion = 17.13.35919.96
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter", "Interpreter\Interpreter.csproj", "{83AF3DC2-FD6F-4669-8A65-F2B54FB867A3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GhostLeg", "GhostLeg\GhostLeg.csproj", "{0B37DCA9-C3AE-485A-B419-176A204813F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IP IP IP", "IP IP IP\IP IP IP.csproj", "{59BD4DA0-2179-4342-9C81-3F417D30DF2F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{0B37DCA9-C3AE-485A-B419-176A204813F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B37DCA9-C3AE-485A-B419-176A204813F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B37DCA9-C3AE-485A-B419-176A204813F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59BD4DA0-2179-4342-9C81-3F417D30DF2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59BD4DA0-2179-4342-9C81-3F417D30DF2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59BD4DA0-2179-4342-9C81-3F417D30DF2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59BD4DA0-2179-4342-9C81-3F417D30DF2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

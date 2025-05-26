@@ -21,6 +21,8 @@
             string answer = "";
             //SCHRIJF HIER JE CODE
 
+
+            //Geef het correct antwoord terug.
             return answer.Trim();
         }
     }
