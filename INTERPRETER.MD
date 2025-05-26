@@ -65,6 +65,6 @@ Let op: de string bevat \r\n voor nieuwe regels. Er mogen geen extra spaties of 
 ## ✅ Evaluatiecriteria
 - Correcte parsing van de chunks (inclusief afkortingen).
 - Juiste verwerking van getallen zonder expliciet karakter (laatste cijfer gebruiken).
-- Correcte verwerking van nl als nieuwe regel (\n).
+- Correcte verwerking van nl als nieuwe regel (\r\n).
 - Alle regels zijn correct opgebouwd volgens het recept.
 - Methode retourneert één string met correcte opmaak (inclusief line breaks, zonder gebruik van Console.WriteLine).
