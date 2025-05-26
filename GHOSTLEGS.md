@@ -21,8 +21,8 @@ int H: de hoogte van het diagram (aantal regels).
 string[] lines: een array met H strings van elk W tekens die het hele Ghost Legs-diagram voorstellen.
 
 ### Structuur van lines:
-lines[0]: de bovenste labels (1 teken per kolom).
-lines[H - 1]: de onderste labels (1 teken per kolom).
+* lines[0]: de bovenste labels (1 teken per kolom).
+* lines[H - 1]: de onderste labels (1 teken per kolom).
 
 De regels daartussen bestaan uit:
 * verticale lijnen | (deze geven de kolommen aan waar het pad naar beneden loopt),
