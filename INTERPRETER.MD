@@ -28,7 +28,7 @@ Elke chunk in het recept geeft aan wat er getoond moet worden:
 
 ### Voorbeelden
 |Chunk|	Betekenis|	Resultaat|
-|:===:|:========:|:=========:|
+|:---:|:---:|:--:|
 |4z	|4 keer 'z'	|zzzz|
 |10=|	10 keer '='|	==========|
 |1{	|1 keer '{'	|{|
