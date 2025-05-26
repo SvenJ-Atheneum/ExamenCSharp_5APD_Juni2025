@@ -33,7 +33,7 @@ Elke chunk in het recept geeft aan wat er getoond moet worden:
 |10=|	10 keer '='|	==========|
 |1{	|1 keer '{'	|{|
 |2sp|	2 spaties|	|
-|3bS|	3 keer backslash (\)|	\\\\\\\\|
+|3bS|	3 keer backslash (\)|	\\\\\\\\ |
 |4sQ|	4 keer '	|''''|
 |123|	12 keer '3'|	333 (laatste cijfer)|
 
