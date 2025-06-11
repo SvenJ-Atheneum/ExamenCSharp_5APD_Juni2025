@@ -7,7 +7,7 @@ namespace IP_IP_IP
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine(VerkrijgIP());
         }
         static string[] VerkrijgIP()
         {
